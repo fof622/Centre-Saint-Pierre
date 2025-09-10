@@ -5,7 +5,7 @@ Centre Saint-Pierre is a bilingual tech center dedicated to fostering innovation
 
 ## Contact
 - Email: contact@centresaintpierre.ca
-- Phone: +1 234 567 890
+- Phone: +224 622 72 33 33
 
 ---
 
@@ -16,4 +16,4 @@ Le Centre Saint-Pierre est un centre technologique bilingue dédié à promouvoi
 
 ## Contact
 - Email : contact@centresaintpierre.ca
-- Téléphone : +1 234 567 890
+- Téléphone : +224 622 72 33 33
